@@ -1,0 +1,8 @@
+.horizontal-container {
+    display: flex;
+    flex-direction: row; /* Secara default flex akan mengatur dalam baris */
+}
+
+.horizontal-item {
+    margin-right: 10px; /* Spasi antara item */
+}
